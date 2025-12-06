@@ -64,6 +64,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ea Veyra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Charaktere/Ea Veyra/Ea Veyra.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ea Veyra\"}",
+                  "eState": "{\"scroll\":38.972162740899364}"
+                },
+                {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
@@ -72,14 +78,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Charaktere/Ea Veyra/Ea Veyra.md",
-                "mode": "preview",
-                "source": true
+                "aFile": ".dnd-ui-toolkit-state.json",
+                "bFile": ".dnd-ui-toolkit-state.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ea Veyra"
+              "icon": "diff",
+              "title": "Diff: .dnd-ui-toolkit-state.json"
             }
           }
         ],
@@ -475,13 +481,13 @@
   },
   "active": "d2c5dc9a67aa1e66",
   "lastOpenFiles": [
+    "Charaktere/Ea Veyra/Ea Veyra.md",
     "README.md",
     "Statblock test.md",
     "Wisasrd test sheet.md",
     "Ea Veyra stats.md",
     "Templates/Character Sheet Template.md",
     "Templates/Gegenstände und Ausrüstungs Template.md",
-    "Charaktere/Ea Veyra/Ea Veyra.md",
     "Character Sheet Template Old.md",
     "image.md",
     "Template test.md",
