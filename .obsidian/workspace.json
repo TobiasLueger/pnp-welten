@@ -154,6 +154,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Statblock test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Statblock test.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Statblock test\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}}}"
+                },
+                {
                   "title": "Ea Veyra stats",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ea Veyra stats.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ea Veyra stats\"}",
@@ -659,10 +671,10 @@
   },
   "active": "d2c5dc9a67aa1e66",
   "lastOpenFiles": [
-    "Wisasrd test sheet.md",
-    "README.md",
-    "Ea Veyra stats.md",
     "Statblock test.md",
+    "README.md",
+    "Wisasrd test sheet.md",
+    "Ea Veyra stats.md",
     "Templates/Character Sheet Template.md",
     "Templates/Gegenstände und Ausrüstungs Template.md",
     "Charaktere/Ea Veyra/Ea Veyra.md",
