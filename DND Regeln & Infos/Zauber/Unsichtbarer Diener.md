@@ -1,0 +1,28 @@
+> *Stufe 1 Beschwörung (Ritual)*
+
+**Stufe:** 1
+
+<p> Dieser Zauber erschafft eine unsichtbare, geist-und formlose Kraft, die auf deinen Befehl einfache Aufgaben erfüllt, bis der Zauber endet. Der Diener erscheint in einem freien Bereich in Reichweite auf dem Boden. Er besitzt eine RK von 10, einen Stärkewert von 2,1 Trefferpunkt und kann nicht angreifen. Wenn seine Trefferpunkte auf 0 sinken, endet der Zauber. </p><p> Als Bonusaktion kannst du in jedem deiner Züge dem Diener mental befehlen, sich bis zu 4,5 Meter zu bewegen und mit einem Gegenstand zu interagieren. Der Diener kann einfache Aufgaben übernehmen, die auch ein menschlicher Diener ausführen könnte: Er kann Dinge holen, reinigen und reparieren, Kleidung Zusammenlegen, Feuer entfachen, Essen servieren und Wein einschenken. Sobald du einen Befehl erteilst, erfüllt der Diener diesen nach Kräften, bis die Aufgabe erledigt ist Dann wartet er auf deinen nächsten Befehl. </p><p>Befiehlst du dem Diener, sich für eine Aufgabe mehr als 18 Meter von dir zu entfernen, endet der Zauber.</p>
+
+
+---
+
+## 🔮 Zauberinformationen
+
+**Wirkzeit:** 1 Aktion
+**Reichweite:** 18 Meter
+**Wirkungsdauer:** 1 Stunde
+**Klassen:**  
+- bard
+- warlock
+- wizard
+
+**Komponenten (Rohformat):** V, G, M (ein Stück Schnur und ein Stück Holz)
+**Benötigte Materialien:** ein Stück Schnur und ein Stück Holz
+**Ritual:** Ja
+
+
+
+
+
+

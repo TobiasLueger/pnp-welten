@@ -1,0 +1,51 @@
+{
+  "state": {
+    "my_character_hp": {
+      "current": 28,
+      "temporary": 0,
+      "hitdiceUsed": 2,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "my_character_spells_1": {
+      "value": 0
+    },
+    "my_character_sneak_attack": {
+      "value": 0
+    },
+    "din_health": {
+      "current": 23,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "din_spells_1": {
+      "value": 0
+    },
+    "din_spell_2": {
+      "value": 0
+    },
+    "din_fey_touched_misty_step": {
+      "value": 0
+    },
+    "din_fey_touched_silvery_barbs": {
+      "value": 0
+    },
+    "din_luck_points": {
+      "value": 0
+    },
+    "din_arcane_recovery": {
+      "value": 0
+    },
+    "din_items__ring_of_investigation": {
+      "value": 0
+    },
+    "din_super_traits": {
+      "value": 0
+    },
+    "warlock_slots": {
+      "value": 0
+    }
+  }
+}
