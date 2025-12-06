@@ -23,7 +23,7 @@
               "type": "markdown",
               "state": {
                 "file": "Statblock test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -455,7 +455,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 604.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -471,12 +471,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d2c5dc9a67aa1e66",
