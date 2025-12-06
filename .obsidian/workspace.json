@@ -459,12 +459,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "d2c5dc9a67aa1e66",
