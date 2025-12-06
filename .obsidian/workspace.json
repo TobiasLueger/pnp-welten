@@ -23,7 +23,7 @@
               "type": "markdown",
               "state": {
                 "file": "Statblock test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -39,57 +39,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Wisasrd test sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Wisasrd test sheet.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Wisasrd test sheet\"}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wisasrd test sheet.md",
+                "file": "Charaktere/Ea Veyra/Ea Veyra.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wisasrd test sheet"
-            }
-          },
-          {
-            "id": "d2c5dc9a67aa1e66",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Ea Veyra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Charaktere/Ea Veyra/Ea Veyra.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Ea Veyra\"}",
-                  "eState": "{\"scroll\":38.972162740899364}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".dnd-ui-toolkit-state.json",
-                "bFile": ".dnd-ui-toolkit-state.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .dnd-ui-toolkit-state.json"
+              "title": "Ea Veyra"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -455,7 +426,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 604.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -471,20 +442,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "d2c5dc9a67aa1e66",
+  "active": "02ab5b06bfd9cc2b",
   "lastOpenFiles": [
+    "Wisasrd test sheet.md",
     "Charaktere/Ea Veyra/Ea Veyra.md",
     "README.md",
     "Statblock test.md",
-    "Wisasrd test sheet.md",
     "Ea Veyra stats.md",
     "Templates/Character Sheet Template.md",
     "Templates/Gegenstände und Ausrüstungs Template.md",

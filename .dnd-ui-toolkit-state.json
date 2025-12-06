@@ -15,7 +15,7 @@
     },
     "din_health": {
       "current": 17,
-      "temporary": 0,
+      "temporary": 1,
       "hitdiceUsed": 0,
       "deathSaveSuccesses": 0,
       "deathSaveFailures": 0
