@@ -1,0 +1,20 @@
+{
+  "ITS@@s-d": false,
+  "ITS@@drwn": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@accent-color": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@metabind-auto": true,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@writing-document": false,
+  "ITS@@paper": false,
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@file-line-width": 1400,
+  "ITS@@tab-outline-width": 2,
+  "ITS@@file-header-font-size": 15,
+  "ITS@@file-header-breadcrumb-font-size": 13.5,
+  "ITS@@inline-title-size": 34
+}

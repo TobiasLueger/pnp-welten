@@ -1,0 +1,23 @@
+{
+  "statePath": ".dnd-ui-toolkit-state.json",
+  "selectedTheme": "default",
+  "colorBgPrimary": "#262a36",
+  "colorBgSecondary": "#323748",
+  "colorBgTertiary": "#3a4055",
+  "colorBgHover": "#363b4a",
+  "colorBgDarker": "#303440",
+  "colorBgGroup": "#2d334a",
+  "colorBgProficient": "#2d3343",
+  "colorTextPrimary": "#e0e0e0",
+  "colorTextSecondary": "#a0a0d0",
+  "colorTextSublabel": "#a0c7d0",
+  "colorTextBright": "#ffffff",
+  "colorTextMuted": "#b8b8d0",
+  "colorTextGroup": "#b8c4ff",
+  "colorBorderPrimary": "#383e54",
+  "colorBorderActive": "#6d7cba",
+  "colorBorderFocus": "rgba(109, 124, 186, 0.5)",
+  "colorAccentTeal": "#64d8cb",
+  "colorAccentRed": "#e57373",
+  "colorAccentPurple": "#b39ddb"
+}

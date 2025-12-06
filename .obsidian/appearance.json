@@ -1,0 +1,11 @@
+{
+  "cssTheme": "ITS Theme",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "Theme - D&D WOTC",
+    "supercharged-links-gen",
+    "TabsInObsidian"
+  ]
+}
