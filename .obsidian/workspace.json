@@ -23,7 +23,7 @@
               "type": "markdown",
               "state": {
                 "file": "Statblock test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -62,18 +62,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Charaktere/Ea Veyra/Ea Veyra.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ea Veyra"
             }
           }
         ],
@@ -443,7 +449,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 604.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -469,8 +475,8 @@
   },
   "active": "d2c5dc9a67aa1e66",
   "lastOpenFiles": [
-    "Statblock test.md",
     "README.md",
+    "Statblock test.md",
     "Wisasrd test sheet.md",
     "Ea Veyra stats.md",
     "Templates/Character Sheet Template.md",
